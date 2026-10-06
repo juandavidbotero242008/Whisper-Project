@@ -1,1 +1,18 @@
+# Entorno virtual de Python
 venv/
+env/
+.venv/
+
+# Cachés de Python
+__pycache__/
+*.pyc
+
+# Cachés de modelos y descargas temporales
+.cache/
+*.pt
+*.onnx
+*.bin
+
+# Configuraciones de editores
+.vscode/
+.idea/
